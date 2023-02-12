@@ -926,7 +926,7 @@
     </section><!-- End Chefs Section -->
 
     <!-- ======= Book A Table Section ======= -->
-    <section id="book-a-table" class="book-a-table">
+    <!--<section id="book-a-table" class="book-a-table">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
@@ -976,10 +976,9 @@
               </div>
               <div class="text-center"><button type="submit">Book a Table</button></div>
             </form>
-          </div><!-- End Reservation Form -->
+          </div><!-- End Reservation Form
 
         </div>
-
       </div>
     </section><!-- End Book A Table Section -->
 
