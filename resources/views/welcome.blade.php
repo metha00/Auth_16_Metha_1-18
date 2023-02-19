@@ -290,7 +290,7 @@
                 <a href="{{asset('frontend/assets/img/menu/menu-item-1.jpg')}}" class="glightbox"><img src="{{asset('frontend/assets/img/menu/menu-item-1.jpg')}}" class="menu-img img-fluid" alt=""></a>
                 <h4>Fried Garlic Seafood with Rice</h4>
                 <p class="ingredients">
-                    Seafood Tod Krataem
+                    ทะเลทอดกระเทียม
                   </p>
                 <p class="price">
                     ฿70
@@ -301,7 +301,7 @@
                 <a href="{{asset('frontend/assets/img/menu/menu-item-2.jpg')}}" class="glightbox"><img src="{{asset('frontend/assets/img/menu/menu-item-2.jpg')}}" class="menu-img img-fluid" alt=""></a>
                 <h4>Teriyaki Grilled Chicken with Rice</h4>
                 <p class="ingredients">
-                    Chicken Teriyaki
+                    ไก่ย่างราดซอสเทอริยากิ
                   </p>
                 <p class="price">
                     ฿60
@@ -312,7 +312,7 @@
                 <a href="{{asset('frontend/assets/img/menu/menu-item-3.jpg')}}" class="glightbox"><img src="{{asset('frontend/assets/img/menu/menu-item-3.jpg')}}" class="menu-img img-fluid" alt=""></a>
                 <h4>Crab Fried Rice</h4>
                 <p class="ingredients">
-                    Khao Pad Poo
+                    ข้าวผัดปู
                   </p>
                 <p class="price">
                     ฿75
@@ -323,7 +323,7 @@
                 <a href="{{asset('frontend/assets/img/menu/menu-item-4.jpg')}}" class="glightbox"><img src="{{asset('frontend/assets/img/menu/menu-item-4.jpg')}}" class="menu-img img-fluid" alt=""></a>
                 <h4>Fried Garlic Streaky Pork with Rice</h4>
                 <p class="ingredients">
-                    Sam Chan Tod Krataem
+                    สามชั้นทอดกระเทียม
                   </p>
                 <p class="price">
                     ฿60
@@ -334,7 +334,7 @@
                 <a href="{{asset('frontend/assets/img/menu/menu-item-6.jpg')}}" class="glightbox"><img src="{{asset('frontend/assets/img/menu/menu-item-6.jpg')}}" class="menu-img img-fluid" alt=""></a>
                 <h4>Omelette Holy Basil Fried Rice</h4>
                 <p class="ingredients">
-                    KhaiJeaw KaProw
+                    ไข่เจียวกระเพรา
                   </p>
                 <p class="price">
                     ฿70
@@ -345,7 +345,7 @@
                 <a href="{{asset('frontend/assets/img/menu/menu-item-7.jpg')}}" class="glightbox"><img src="{{asset('frontend/assets/img/menu/menu-item-7.jpg')}}" class="menu-img img-fluid" alt=""></a>
                 <h4>Spicy Cockle Salad</h4>
                 <p class="ingredients">
-                    Tum Hoi
+                    ตำหอยแครง
                   </p>
                 <p class="price">
                     ฿100
@@ -356,7 +356,7 @@
                 <a href="{{asset('frontend/assets/img/menu/menu-item-8.jpg')}}" class="glightbox"><img src="{{asset('frontend/assets/img/menu/menu-item-8.jpg')}}" class="menu-img img-fluid" alt=""></a>
                 <h4>Super Papaya Salad</h4>
                 <p class="ingredients">
-                    SomTum Super
+                    ซุปเปอร์ส้มตำ
                   </p>
                 <p class="price">
                     ฿120
@@ -367,7 +367,7 @@
                 <a href="{{asset('frontend/assets/img/menu/menu-item-9.jpg')}}" class="glightbox"><img src="{{asset('frontend/assets/img/menu/menu-item-9.jpg')}}" class="menu-img img-fluid" alt=""></a>
                 <h4>Seafood Stir Fried Basil</h4>
                 <p class="ingredients">
-                    Seafood Pad KaProw
+                    ผัดกระเพราทะเล
                   </p>
                 <p class="price">
                     ฿70
@@ -378,7 +378,7 @@
                 <a href="{{asset('frontend/assets/img/menu/menu-item-5.jpg')}}" class="glightbox"><img src="{{asset('frontend/assets/img/menu/menu-item-5.jpg')}}" class="menu-img img-fluid" alt=""></a>
                 <h4>Fried Garlic Wingstick Chicken with ChiliSauce</h4>
                 <p class="ingredients">
-                    PeakKai Tod Krataem
+                    ปีกไก่ทอดกระเทียม
                   </p>
                 <p class="price">
                     ฿60
@@ -1171,7 +1171,7 @@
       </div>
   </div>
 
-  </footer><!-- End Footer -->
+  </footer>
   <!-- End Footer -->
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
